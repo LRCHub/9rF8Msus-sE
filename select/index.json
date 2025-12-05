@@ -1,48 +1,168 @@
 {
   "version": 1,
-  "base_track": "Tracing A Dream",
+  "base_track": "On the Stage",
   "base_artist": "YOASOBI",
-  "createdAt": "2025-12-05T13:50:33.513406Z",
+  "createdAt": "2025-12-05T13:50:54.364445Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Tracing A Dream",
-      "artist": "YOASOBI",
+      "title": "Jacky's Only Happy When She's Up on the Stage",
+      "artist": "Morrissey",
       "has_synced": true,
-      "path": "select/01_Tracing_A_Dream_YOASOBI.lrc"
+      "path": "select/01_Jacky's_Only_Happy_When_She's_Up_on_the_Stage_Morrissey.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Tracing A Dream (English Version)",
-      "artist": "YOASOBI",
-      "has_synced": true,
-      "path": "select/02_Tracing_A_Dream_(English_Version)_YOASOBI.lrc"
+      "title": "She's Still The Star (On The Stage Of My Mind)",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/02_She's_Still_The_Star_(On_The_Stage_Of_My_Mind)_Hank_Williams,_Jr..txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "tracing a dream",
-      "artist": "yoasobi",
-      "has_synced": true,
-      "path": "select/03_tracing_a_dream_yoasobi.lrc"
+      "title": "She's Still The Star (On The Stage Of My Mind)",
+      "artist": "Hank Williams Jr.",
+      "has_synced": false,
+      "path": "select/03_She's_Still_The_Star_(On_The_Stage_Of_My_Mind)_Hank_Williams_Jr..txt"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "あの夢をなぞって (Tracing a Dream)",
-      "artist": "YOASOBI",
+      "title": "That Boy on the Stage",
+      "artist": "Suede",
       "has_synced": true,
-      "path": "select/04_あの夢をなぞって_(Tracing_a_Dream)_YOASOBI.lrc"
+      "path": "select/04_That_Boy_on_the_Stage_Suede.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That Boy on the Stage",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/05_That_Boy_on_the_Stage_Suede.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That Boy on the Stage (Live)",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/06_That_Boy_on_the_Stage_(Live)_Suede.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That Boy on the Stage (Live) (Live)",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/07_That_Boy_on_the_Stage_(Live)_(Live)_Suede.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Dances on the Stage",
+      "artist": "Lil’ Chris",
+      "has_synced": false,
+      "path": "select/08_She_Dances_on_the_Stage_Lil’_Chris.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She's Still the Star (On the Stage of My Mind)",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/09_She's_Still_the_Star_(On_the_Stage_of_My_Mind)_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jacky's Only Happy When She's Up on the Stage",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/10_Jacky's_Only_Happy_When_She's_Up_on_the_Stage_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On the Stage",
+      "artist": "Haunt",
+      "has_synced": false,
+      "path": "select/11_On_the_Stage_Haunt.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On the Stage",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/12_On_the_Stage_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jacky’s Only Happy When She’s Up on the Stage (edit)",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/13_Jacky’s_Only_Happy_When_She’s_Up_on_the_Stage_(edit)_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That Boy on the Stage (live)",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/14_That_Boy_on_the_Stage_(live)_Suede.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get On the Stage",
+      "artist": "Spermbirds",
+      "has_synced": false,
+      "path": "select/15_Get_On_the_Stage_Spermbirds.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jacky's Only Happy When She's Up on the Stage [video edit]",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/16_Jacky's_Only_Happy_When_She's_Up_on_the_Stage_[video_edit]_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jacky's Only Happy When She's Up on the Stage [Saturday session]",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/17_Jacky's_Only_Happy_When_She's_Up_on_the_Stage_[Saturday_session]_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Jacky's Only Happy When She's Up on the Stage [instrumental]",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/18_Jacky's_Only_Happy_When_She's_Up_on_the_Stage_[instrumental]_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Katamari on the Stage",
+      "artist": "TAKU INOUE feat. 松崎しげる",
+      "has_synced": false,
+      "path": "select/19_Katamari_on_the_Stage_TAKU_INOUE_feat._松崎しげる.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Tracing A Dream",
+      "title": "On the Stage",
       "artist": "YOASOBI",
       "has_synced": false,
-      "path": "select/pl_01_Tracing_A_Dream_YOASOBI.txt"
+      "path": "select/pl_01_On_the_Stage_YOASOBI.txt"
     }
   ]
 }
